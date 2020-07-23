@@ -1,2 +1,2 @@
-# CommonAlgorithms
-Implementations of common algorithms and data structures in C++
+# KD Partition Algorithm
+Implementation of KD Partition in C++
