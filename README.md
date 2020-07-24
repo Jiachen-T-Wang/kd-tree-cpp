@@ -1,2 +1,2 @@
-# KD Partition Algorithm
-Implementation of KD Partition in C++
+# KD Tree Algorithm
+Implementation of KD Tree in C++
